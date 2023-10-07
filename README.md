@@ -3,7 +3,7 @@
   
   <br>
 
-  - 🌱 I’m currently learning about **Web Application Security**
+  - 🌱 I’m currently learning about **GitLab CI/CD, AWS, Microsoft Azure**
   
   - 👯 I’m looking to collaborate on [cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
     
