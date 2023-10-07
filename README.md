@@ -3,7 +3,7 @@
   
   <br>
 
-  - 🌱 I’m currently learning **Go, Rust, Gin, GraphQL**
+  - 🌱 I’m currently learning about **Web Application Security**
   
   - 👯 I’m looking to collaborate on [cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
     
