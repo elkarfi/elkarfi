@@ -3,7 +3,7 @@
   
   <br>
 
-  - 🌱 I’m currently learning about **GitLab CI/CD, AWS, Microsoft Azure**
+  - 🌱 I’m currently learning **GitLab CI/CD, AWS, Microsoft Azure**
   
   - 👯 I’m looking to collaborate on [cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
     
