@@ -1,7 +1,8 @@
   <h1 align="center">Hi 👋, I'm Badr Elkarfi</h1>
   <h3 align="center">A passionate full stack developer who loves bringing unique and innovative ideas to life</h3>
   
-  
+  <br>
+
   - 🌱 I’m currently learning **Go, Rust, Gin, GraphQL**
   
   - 👯 I’m looking to collaborate on [cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django)
