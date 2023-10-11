@@ -9,7 +9,7 @@
     
   - ⚡ Besides software development I enjoy tinkering with electronics, hardware hacking
   
-  - 💬 You can get in touch with me by email at [info@roaldnefs.com](mailto:info@roaldnefs.com) 
+  - 💬 You can get in touch with me by email at [Badr.Elkarfi@emsi-edu.ma](mailto:Badr.Elkarfi@emsi-edu.ma?subject=Hi%20Badr) 
   
   - 📄 Know about my experiences: I've done full stack websites for multiple local businesses.
 
@@ -38,5 +38,5 @@
 
 
 <h3>Where to find me</h3>
-<p><a href="" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 
+<p><a href="" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://discord.com/users/943527382998982701" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 
 </p>
